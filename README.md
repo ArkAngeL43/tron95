@@ -12,6 +12,16 @@ A very simple math framework to convert temperatures, calculate sums, all types 
 
 ```
 
+# compile 
+
+```
+gfortran main.f90 -o main
+
+running!
+
+./main
+```
+
 # Command list and able to do>
 
 ```
